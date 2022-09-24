@@ -40,12 +40,87 @@ final class Modelos_Movimientos_Solicitudes extends Modelo {
 			}
 
 			// Pendientes
-			
+			$sth = $this->_db->query("
+				SELECT so.id, so.uniqueid, p.nombre AS propietario, p.lote, p.manzana, p.seccion, so.tipo, se.nombre AS servicio, so.status, so.fecha_creacion, so.otro
+				FROM solicitudes so
+				LEFT JOIN servicios se
+				ON se.id = so.id_servicio
+				JOIN propietarios p
+				ON p.id = so.id_propietario
+				WHERE so.status = 0 $qry
+				ORDER BY so.id DESC
+			");
+			if(!$sth->execute()) throw New Exception();
 
 			$x = 0;
 			$y = 0;
 
-			
+			while ($datos = $sth->fetch()) {
+				switch ($datos['seccion']) {
+					case 'HACIENDA DEL REY (RGR)': $prefijo = 'SR'; break;
+					case 'HACIENDA DEL REY': $prefijo = 'SR'; break;
+					case 'LOMAS (RGR)': $prefijo = 'SL'; break;
+					case 'LOMAS': $prefijo = 'SL'; break;
+					case 'HACIENDA VALLE DE LOS ENCINOS (RGR)': $prefijo = 'SV'; break;
+					case 'HACIENDA VALLE DE LOS ENCINOS': $prefijo = 'SV'; break;
+					case 'CAÑADA DEL ENCINO': $prefijo = 'SC'; break;
+					case 'VISTA DEL REY (RGR)': $prefijo = 'VR'; break;
+					case 'VISTA DEL REY': $prefijo = 'VR'; break;
+				}
+				$lote = $prefijo . '-' . str_pad($datos['manzana'], 2, '0', STR_PAD_LEFT) . '-' . str_pad($datos['lote'], 2, '0', STR_PAD_LEFT);
+
+				$fechaFin = new DateTime($datos['fecha_creacion']);
+				$fechaFin = $fechaFin->add(new DateInterval('P1D'));
+				$fechaFin = $fechaFin->format('Y-m-d H:i:s');
+				$horas = differenceInHours($fechaInicio, $fechaFin);
+
+				if ($horas >= 13) {
+					$icono = 'icono-activar.png';
+					$color = '#AFE5AF';
+				} elseif ($horas >= 3 && $horas <= 11) {
+					$icono = 'icono-alerta_amarillo.png';
+					$color = '#FFFAC1';
+				} elseif ($horas <= 2) {
+					$icono = 'icono-advertencia.png';
+					$color = '#FFB4AA';
+				}
+
+				if ($horas <= 0) {
+					$tiempoRestante = 'VENCIDA';
+				} else {
+					$tiempoRestante = $horas . ' horas';
+				}
+
+				if (!$datos['servicio']) {
+					$servicio = mb_strtoupper($datos['otro']);
+				} else {
+					$servicio = $datos['servicio'];
+				}
+
+				$arreglo = array(
+					'id' => $datos['id'],
+					'uniqueid' => $datos['uniqueid'],
+					'propietario' => $datos['propietario'],
+					'lote' => $lote,
+					'no_solicitud' => $datos['tipo'] . '-' . str_pad($datos['id'], 5, '0', STR_PAD_LEFT),
+					'servicio' => $servicio,
+					'fecha_creacion' => Modelos_Fecha::formatearFechaHora($datos['fecha_creacion']),
+					'tiempo_restante' => $tiempoRestante,
+					'icono' => $icono,
+					'color' => $color,
+				);
+
+				if ($tiempoRestante != 'VENCIDA') {
+					$datosVista['pendientes'][] = $arreglo;
+					$x++;
+				} else {
+					$datosVista['noAtendidas'][] = $arreglo;
+					$y++;
+				}
+			}
+			$datosVista['nPendientes'] = $x;
+			$datosVista['nNoAtendidas'] = $y;
+
 			// En Revision
 			$sth = $this->_db->prepare("
 				SELECT so.id, so.uniqueid, p.nombre AS propietario, p.lote, p.manzana, p.seccion, so.tipo, se.nombre AS servicio, so.status, so.fecha_creacion, so.otro, so.fecha_revision, CONCAT(e.nombre, ' ', e.apellidos) AS responsable
@@ -128,7 +203,7 @@ final class Modelos_Movimientos_Solicitudes extends Modelo {
 
 			// Autorizadas
 			$sth = $this->_db->query("
-				SELECT so.id, so.uniqueid, p.nombre AS propietario, p.lote, p.manzana, p.seccion, so.tipo, se.nombre AS servicio, so.status, so.fecha_creacion, so.otro, so.fecha_autorizada, CONCAT(e.nombre, ' ', e.apellidos) AS responsable
+				SELECT so.id, so.uniqueid, p.nombre AS propietario, p.lote, p.manzana, p.seccion, so.tipo, se.nombre AS servicio, so.status, so.fecha_creacion, so.otro, so.fecha_autorizada, CONCAT(e.nombre, ' ', e.apellidos) AS responsable, so.id_propietario
 				FROM solicitudes so
 				LEFT JOIN servicios se
 				ON se.id = so.id_servicio
@@ -184,6 +259,22 @@ final class Modelos_Movimientos_Solicitudes extends Modelo {
 					$servicio = $datos['servicio'];
 				}
 
+				$query_ok=0;
+				$data_id_propietario=$datos['id_propietario'];
+
+				$sth_cotizaciones = $this->_db->query("
+					SELECT c.id, c.id_agente, c.id_cliente, c.id_solicitante, c.id_integracion, c.telefono1, c.telefono2, c.correo, c.moneda, c.vigencia, c.subtotal
+					FROM cotizaciones c
+					WHERE c.id_cliente = $data_id_propietario
+					ORDER BY c.id DESC
+				");
+				if(!$sth_cotizaciones->execute()){
+					$query_ok=0;
+					throw New Exception();
+				}else{
+					$query_ok=1;
+				}
+
 				$arreglo = array(
 					'id' => $datos['id'],
 					'uniqueid' => $datos['uniqueid'],
@@ -197,6 +288,7 @@ final class Modelos_Movimientos_Solicitudes extends Modelo {
 					'tiempo_restante' => $tiempoRestante,
 					'icono' => $icono,
 					'color' => $color,
+					'data_cotizaciones' => $query_ok
 				);
 
 				$datosVista['autorizadas'][] = $arreglo;

@@ -799,7 +799,7 @@ if (!empty($status)) echo $status;
 											<td data-sort="<?php echo $dato['id']; ?>" style="text-align: center;"><?php echo $dato['no_solicitud']; ?></td>
 											<td style="text-align: center;"><?php echo $dato['propietario']; ?></td>
 											<td style="text-align: center;"><?php echo $dato['lote']; ?></td>
-											<td style="text-align: center;"><?php echo $dato['servicio']; ?></td>
+											<td style="text-align: center;"><?php echo $dato['data_cotizaciones']; ?></td>
 											<td style="text-align: center;"><?php echo $dato['fecha_creacion']; ?></td>
 											<td style="text-align: center;"><?php echo $dato['fecha_autorizada']; ?></td>
 											<td style="text-align: center;"><?php echo $dato['responsable']; ?></td>
