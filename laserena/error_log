@@ -1,0 +1,935 @@
+[28-Jun-2022 15:33:43 America/Tijuana] PHP Fatal error:  Uncaught Error: Class 'Modelos_Contenedor' not found in /home/saevalcas/public_html/laserena/sistema/controlador.php:21
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php(5): Controlador->cargarModelo('acceso')
+#1 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#2 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#3 {main}
+  thrown in /home/saevalcas/public_html/laserena/sistema/controlador.php on line 21
+[28-Jun-2022 15:35:42 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:35:42 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:36:00 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:36:00 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:39:40 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:39:41 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:39:42 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:39:42 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:39:57 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:39:58 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:40:10 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 15:40:10 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:17:50 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:17:50 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:18:16 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:18:16 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:18:28 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:18:28 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:18:43 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:18:47 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:18:47 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:20:19 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:22:03 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:22:03 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:27:54 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:27:54 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:29:08 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:29:09 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:29:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:29:26 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:29:57 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:29:58 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:30:33 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:30:33 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:30:56 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:31:04 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:31:39 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:31:39 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:31:45 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:32:44 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:32:45 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:35:13 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:35:13 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:39:37 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:39:40 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:39:42 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:39:54 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:39:54 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:41:01 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:41:02 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:41:03 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:41:30 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:41:30 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:42:09 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:42:09 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:43:02 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:43:03 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:43:03 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:43:05 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:43:09 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:43:11 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:43:47 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:43:48 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:43:48 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 16:45:55 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:47:24 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:47:31 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 16:56:27 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 17:03:24 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:03:24 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:03:32 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:03:33 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:04:58 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:04:59 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:05:18 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:05:19 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:05:30 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:05:30 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:05:51 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:06:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:06:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:06:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:07:19 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:07:19 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:07:51 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:07:52 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:10:14 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:10:14 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:10:32 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:10:32 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:10:44 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 17:10:44 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:10:45 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:11:09 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:11:09 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:12:44 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:12:44 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:19:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:19:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:19:35 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 17:19:35 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:08:10 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 18:10:21 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[28-Jun-2022 18:18:38 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:18:39 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:18:41 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:18:43 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:18:44 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:18:58 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:18:59 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:01 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:02 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:02 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:02 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:02 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:03 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:03 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:16 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:16 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:17 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:17 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:21 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:22 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:29 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:29 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:30 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:30 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:32 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:19:32 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:20:59 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:20:59 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:23:06 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[28-Jun-2022 18:23:06 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 10:24:14 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[29-Jun-2022 11:23:26 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[29-Jun-2022 13:51:59 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 13:52:00 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 13:52:16 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 13:52:19 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 13:53:00 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 13:53:02 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:19:05 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:37:35 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:37:35 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:37:36 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:38:00 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:38:01 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:38:32 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:38:32 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:39:00 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 14:39:01 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 14:39:02 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 14:39:26 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:39:31 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 14:39:35 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 14:39:37 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 14:39:38 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 14:43:51 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 14:43:52 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 14:43:53 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 14:43:54 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 14:44:33 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 17:34:45 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 17:34:47 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 17:34:48 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 17:36:55 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 17:36:57 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 17:36:58 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:37:30 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 17:37:31 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[29-Jun-2022 17:37:32 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[29-Jun-2022 17:37:33 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591
+[29-Jun-2022 18:28:02 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[29-Jun-2022 18:32:24 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[01-Jul-2022 12:26:33 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[01-Jul-2022 12:26:35 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function renderizar() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/propietarios.php:91
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Propietarios->pagos('recibo', '1')
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/propietarios.php on line 91
+[01-Jul-2022 12:26:36 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[01-Jul-2022 12:26:36 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[06-Jul-2022 15:55:43 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[06-Jul-2022 15:55:43 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:42:19 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:42:20 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:43:02 America/Tijuana] PHP Fatal error:  Uncaught Error: Call to a member function set() on null in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php:11
+Stack trace:
+#0 /home/saevalcas/public_html/laserena/sistema/fw.php(42): Login->index()
+#1 /home/saevalcas/public_html/laserena/index.php(10): fw()
+#2 {main}
+  thrown in /home/saevalcas/public_html/laserena/aplicacion/controladores/login.php on line 11
+[04-Aug-2022 15:43:05 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:43:05 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:43:23 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:43:23 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:43:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:43:25 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:53:36 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:53:36 America/Tijuana] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/saevalcas/public_html/laserena/aplicacion/controladores/error.php on line 2
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 2243
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6786
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6857
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 6878
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 7505
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 8744
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14772
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 14885
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16359
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16374
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16546
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16550
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16554
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16573
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16576
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16579
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16598
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16762
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16764
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16806
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16809
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16871
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 17639
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18645
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 18687
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 22558
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 23953
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_colors.php on line 354
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 221
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 303
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_images.php on line 305
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 140
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 156
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2168
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_static.php on line 2235
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/include/tcpdf_fonts.php on line 1497
+[04-Aug-2022 15:53:56 America/Tijuana] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/saevalcas/public_html/laserena/aplicacion/plugins/tcpdf/tcpdf.php on line 16470
+[04-Aug-2022 15:53:57 America/Tijuana] PHP Warning:  Invalid argument supplied for foreach() in /home/saevalcas/public_html/laserena/aplicacion/vistas/solicitudes.php on line 591

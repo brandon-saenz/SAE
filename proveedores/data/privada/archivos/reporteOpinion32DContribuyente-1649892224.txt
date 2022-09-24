@@ -1,0 +1,41 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><link type="text/css" rel="stylesheet" href="/PTSC/RFC/COBReporteOpinionR32dLoginRFC/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo" /><link type="text/css" rel="stylesheet" href="/PTSC/RFC/COBReporteOpinionR32dLoginRFC/javax.faces.resource/primefaces.css.xhtml?ln=primefaces" /><script type="text/javascript" src="/PTSC/RFC/COBReporteOpinionR32dLoginRFC/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces"></script><script type="text/javascript" src="/PTSC/RFC/COBReporteOpinionR32dLoginRFC/javax.faces.resource/primefaces.js.xhtml?ln=primefaces"></script>
+	<title>Reporte de Opinión 32-D</title>
+	<script type="text/javascript" language="javascript">
+		$(document).ready(
+				function() {
+					setTimeout(clickButton, 2000);
+					function clickButton() {
+						document.getElementById(
+								"ReporteOpinionForm:botonConsultar").click();
+					}
+				});
+	</script>
+	<!-- <script src="https://framework-gb.cdn.gob.mx/gobmx.js"></script> -->
+	<!-- <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet"> </link> --></head><body>
+	<div id="form" align="center">
+<form id="ReporteOpinionForm" name="ReporteOpinionForm" method="post" action="/PTSC/RFC/COBReporteOpinionR32dLoginRFC/reporteOpinion32DContribuyente.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="ReporteOpinionForm" value="ReporteOpinionForm" />
+<input type="hidden" name="ReporteOpinionForm:j_idt6_CSRFToken" value="0a0c0a030a0e080c060f050b05000d070d050303" />
+			<input type="hidden" name="entrada" />
+			<!-- value="<%= WebUtils.getUsuarioFromSession(auxSession) %>" />-->
+			<input type="hidden" name="tipoReporte" value="32D" />
+			<input type="hidden" name="canalOpinion" value="C" />
+			<input type="hidden" name="existenDatos" value="false" />
+			<input type="hidden" name="isrfc" value="true" />
+			<table>
+<!-- 				<tr> -->
+<!-- 					<td> -->
+<!-- 						<p:dialog header="Procesando" visible="true" width="250" height="20"> -->
+<!-- 		    				<img src="images/ajax-loader-1.gif" alt="Cargando..."/> -->
+<!-- 						</p:dialog> -->
+<!-- 					</td> -->
+<!-- 				</tr> -->
+				<tr>
+
+					<td width="1090"><button id="ReporteOpinionForm:envia" name="ReporteOpinionForm:envia" type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-button" style="display: none;" type="submit" onclick="window.location.href='/PTSC/RFC/COBReporteOpinionR32dLoginRFC/reporteOpinion32DContribuyente.xhtml'"><span class="ui-button-text ui-c">Consultar</span></button><script id="ReporteOpinionForm:envia_s" type="text/javascript">PrimeFaces.cw('Button','widget_ReporteOpinionForm_envia',{id:'ReporteOpinionForm:envia'});</script><button id="ReporteOpinionForm:botonConsultar" name="ReporteOpinionForm:botonConsultar" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-button" style="display: none;" type="submit"><span class="ui-button-text ui-c">Consultar</span></button><script id="ReporteOpinionForm:botonConsultar_s" type="text/javascript">PrimeFaces.cw('CommandButton','widget_ReporteOpinionForm_botonConsultar',{id:'ReporteOpinionForm:botonConsultar'});</script></td>
+				</tr>
+			</table><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="H4sIAAAAAAAAAL1YXWwcVxW+XtvxT+z8uY1SUSduarsOJLP/jo0TNev1Otmy/pHXtur0wb27c70eZ3bu9M6d9Wx/ovSBH1GBQKWilVKBBA99aF7gHYTygBTRSI1AlUCVAFUgHkolRBUJEOXc2Zm5s5u1EojoSJ6d+eace875zrnn3ut3P0bdpsXQ4R1cw4rNNV25hK3tBWx29/z2FzePPv9+J+rMo8EyLm+TzZLGq9i6Mo/6dYrVeVzmlOVRH99mxNqmuuqYn8H19AUkroHdXrgfgr8ejvbtbGoqT9kMDT1XcG3p2KgoS6UdUuYz37n97A8OWaf0CEKOCQoR+wV0FXXCU7cJl3y7ypAitB1lC5eJpZRp1aQGMbiyls/6z6PLjJqE8fpXSN1C3nUEhmbogDSdM+xq+KPJUT/mnGklmxMLKBmSlGQYw/WCZnHn1TvDb/0Sv92JOvKoy9JeJK6/nbtd4g5K4+29K3LMySVgiLAirhG2ceun51+//t5CBEUKqK+sY8taxFXC0RGXnKjwMFoEZ4zKTAH1W6CjumNwdLQhodFokTAN69qLuKSTGcc0a4ImZIn7IERzHMwrlm14zoi7TrilZJaXC/ncnCcHPqf3ENSqpq7MkS1s63y+AY5mTFOvr9IrxPj0ndMb1y/sXBgQ3O1G0ViUEZMyTpZMzdCokUzMZanh8lkHCojibPOqjlDHtbHzS32OA6lM/3epXGZaDSgIJ03E0MvRIzJxq9uYZxgpQgDi435RTW52Il7ALkv7vRdxHwLqOOoWBZoKKk1W4L6mCuwRD33B0N3u0N2h0Q4H/PfoWolhVg+AfpNpVeJGG2BdBqQ9eBuUEsqO5UZ3LLDlF5m09Xjo+VToecy5Kn5g2g0wYkDNEbZaN6F2vhAmHOYstVmZKMUy00weNAF3dsxSqhNsvDfCrv3m+j/+GkEdl1F3Deu2KHgx+HHTn9SJNqS1TNtm0u4N5HA4HaHnoy0UNGeylYJQIuNtfYLu88hzbdrPsZ//s/jRld/d8ttPh9SuMTQaJo3URIUuM7LiEruukd2cgD6dePnRS7+68euI22bG71UJSrpYtzipuko/q0z9ff32+oGG0vC9SiHZsSvfv6l9+Njthuyjsje5XxuBFL7Vt3is+so7bhz3J42j3P0nYDu/RSckBmEZFZucMMmW7Cmze/QUjitQ2VtgjBHoLdD5GOZajbQZ/eXRa+STNwrn3B45aNAMq/ifoJLdLDpRokcXCN+mas4xoaAtaDzQMA+AxyFx4dWKI9w6s4dbRFdWcaV1JK/RdAy4nD/WIAtEW+V+Er312kd3U99u5GYokJMSP/rqN4t/u3znXCMzDJ3w/WgzWh7a7ocrV6cGNl7/ZMDrcWu759DEky95Hbapry7MKrCgaFv1HOgRrNJX0KHWCm9ddr2V5cad9T//Zfili37dI9N0dkvo+Qfq5CMXEunTidSI7pF8/uSD+nfScetk1b0/+5CRiTEuiyTxB511n1eQ0DpG9ppfom+sUMqRvBzTCbXMTlgez9xPe8+Njrcs7oN9Bc+rzZ09D+5WCDvyxx/++O6rX5+KiJ2M19lZmN9Fu1oi7GvvvjG8/3u/f80vkS5TzvGJ+/onHmAr+Zl3ga0CLJbQA2AtGvdmsKsexbCv0MrQCqgRhahEaotCbsaNBbXdVkLKj7ZPBjg3X3WUCi0pFuaKpcGNJROqsktKSg1yicHfcLJX2g4DC+Cf3rw19q9/9911m9AALNUWOJVjjLpN5QC0GtuyMdNosTF5RVxVJwqWo2A5KixHq1QlOo2qnEYzZQiWrllM7NfAy9FWLxuyCsgqgexbH3xj4sbOB6UIeqKA9pfBN0az1OLUc+FgCJojVtmDB0PwkumBnvoc5tTyoMPQhGsko1Y1Iys+Yt0PTX64KNFeFy1qPgGDKphsFeomVaz5L4OauqqZdJkwixrYAyOa71LPDi1lIWzfQ+81FEmfTsuw0VWx6gEDAZBdWfD1AiwItrOK/SG6qsSw/bgMWi0xInoDNH+fxZ4G6rPSB8cDwijMZ1/L3ZuxjEl0sOJr9ZqMijRZHB1sbMzFohyFoodlaMj/mLWBWLxmQIULPQZ6bKuchZLzx+lmsN/ybR+0SMU2VNpiq8/yFog5KecBi7QGor5PHNjO2Hzb5982BC2LpELLWhCuV7ctZby0pZU1L0niSNQZi8VcBjj0KvHrkmi7kM3RsWfWCvklpZDbWM8kkukLFxcy+YKSXVrgqCPekBQb31hwBUM43ggdcX+UkWyumFkZcccaWVy7+d3cZWkQ9saF3OIz05OxyUSymJ20WttCzG0L4nnc/bYl3jjqzcxlwWw8HoAZAFdnW8BZAPMNyekAHAawmL8o3E4E4OMSlOonJJgKwOMSTAbgSQAXNpYFmA7AJyUoDY1IcDIAn5Dg2QAcl4Yk+JQEpwJwVILS+pgEpaEvutQtpOPxaSn5pYClhJSckOqSulMBGI8FoCLVpWQ0AJNS8rSUlBGdkaCMKCn8XFttpi4hQZmjuDQkJWMSlJJnpboMc1KCkpC0BGXeUxKUeZ8JSjEEflmC0qVpCUqXpuSYkpCnZXlL9fMArs/nmsc8J8dMiVndPJfCs6wDGBmJzydm5+OpyVhyLj17NpFIp8/GYrOT86nkfCw9PTkdTO7WkUxxqm86L4XWdSW8rrfZrfTDd9Uuc3cVdU9x7U6W/+NxXNzHQs9PtTk6c6/Hexsa62EO4OIOVJ5of+DmdWj224RwIZYSt/fBeuOAsekKb4rVTFCxeSmXmXuw6P9/52o3GtjPdtWopjbtWYMA/uDlLPl55+zQzgs2YfVo4+fh/m3ixiluiSCuj03nP7HLWhgkFQAA" autocomplete="off" />
+</form>
+	</div></body>
+
+</html>

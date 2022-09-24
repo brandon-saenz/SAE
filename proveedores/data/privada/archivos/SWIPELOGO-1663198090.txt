@@ -1,0 +1,12 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TW|24 Jun 2015 22:54:36 -0000
+vti_author:SR|swipe-PC\\swipe
+vti_modifiedby:SR|swipe-PC\\swipe
+vti_nexttolasttimemodified:TW|24 Jun 2015 22:54:36 -0000
+vti_timecreated:TR|19 Jun 2015 23:01:32 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_backlinkinfo:VX|Flores/contacto.html Flores/galeria.html Flores/productos.html Flores/servicios.html
+vti_cacheddtm:TX|24 Jun 2015 22:54:36 -0000
+vti_filesize:IR|14714
+vti_lastwidth:IX|258
+vti_lastheight:IX|140
